@@ -1,0 +1,276 @@
+*{
+    margin: 0;
+    padding:0;
+   
+
+}
+
+.parent1{
+    flex-wrap: wrap;
+    background-image: url("https://sxcontent9668.azureedge.us/cms-assets/assets/LAUNCHES_DESKTOP_e260576088.jpg");
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 850px;
+}
+    
+
+.box1{
+    
+    justify-content: space-evenly;
+    display: flex;
+}
+
+.logo{
+    margin-top: 20px;
+    margin-left: 50px;
+    display: flex;
+    width: 15%;
+    
+    
+}
+.links{
+    width: 85%;
+    height: 110px;  
+    text-transform: uppercase;
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 40px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+    color: white;  
+}
+.a1:hover{
+    text-decoration: underline;
+}
+.a2:hover{
+    text-decoration: underline;
+}
+.a3:hover{
+    text-decoration: underline;
+}
+.a4:hover{
+    text-decoration: underline;
+}
+.a5:hover{
+    text-decoration: underline;
+}
+.a6:hover{
+    text-decoration: underline;
+}
+.a7:hover{
+    text-decoration: underline;
+}
+.a8:hover{
+    text-decoration: underline;
+}
+
+
+.shop{
+    width: 10%;
+    height: 110px;
+    padding-top: 40px;
+    padding-left: 200px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+}
+.shophover:hover{
+    text-decoration: underline;
+}
+
+i.fas.fa-bars {
+    color: white;
+}
+.box2{
+    margin: 2px;
+}
+.box2heading1{
+    color: rgb(255, 255, 255);
+    position: absolute;
+    bottom: 280px;
+    left: 40px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: lighter;
+    font-size: 8px;
+    padding: 5px;
+}
+.box2heading2{
+    color: rgb(255, 255, 255);
+    position: absolute;
+    bottom: 230px;
+    left: 40px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bolder;
+    padding: 5px;
+    
+}
+.box2button{
+    color: rgb(253, 252, 252);
+    position: absolute;
+    bottom: 150px;
+    left: 40px;
+    width: 150px;
+    height:40px;
+    font-family: 'Roboto', sans-serif;
+    background-color: transparent;
+    cursor: pointer;
+    border-style: solid;
+    text-align: center;
+    padding-top: 15px;
+    transition: 0.5s ease-out;
+       
+}
+.box2button:hover{
+    background-color: white;
+    color: black;
+}
+.parent2{
+    background-image: url("https://sxcontent9668.azureedge.us/cms-assets/assets/Star_5_12_DSC_7006_desktop_04baf467a8.jpg");
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 850px;
+    padding: 15px;
+}
+.twobox1heading1{
+    color: rgb(255, 255, 255);
+    position: absolute;
+    margin-top: 500px;
+    margin-left:40px ;
+    font-family: 'Roboto', sans-serif;
+    font-weight: lighter;
+    font-size: 12px;
+    padding: 5px;
+}
+
+    .twobox1heading2{
+        color: rgb(255, 255, 255);
+        position: absolute;
+        font-family: 'Roboto', sans-serif;
+        font-weight: bolder;
+        padding: 5px;
+        margin-left: 40px;
+        margin-top: 550px;
+    }
+    .twobox1button{
+        color: rgb(253, 252, 252);
+        position: absolute;
+        margin-left: 40px;
+        margin-top: 600px;
+        width: 150px;
+        height:40px;
+        font-family: 'Roboto', sans-serif;
+        background-color: transparent;
+        cursor: pointer;
+        border-style: solid;
+        text-align: center;
+        transition: 0.5s ease-out;
+        padding-top: 15px;
+    }
+    .twobox1button:hover{
+        background-color: white;
+        color: black;
+    }
+.parent3{
+    background-image: url("https://sxcontent9668.azureedge.us/cms-assets/assets/PSN_Satria_pad39a_DSC_6855_desktop_6dd3f9c0d0.jpg");
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 850px;
+    padding: 15px;
+}
+.threebox1heading1{
+    color: rgb(255, 255, 255);
+    position: absolute;
+    margin-top: 500px;
+    margin-left:40px ;
+    font-family: 'Roboto', sans-serif;
+    font-weight: lighter;
+    font-size: 12px;
+    padding: 5px;
+}
+.threebox1heading2{
+        color: rgb(255, 255, 255);
+        position: absolute;
+        font-family: 'Roboto', sans-serif;
+        font-weight: bolder;
+        padding: 5px;
+        margin-left: 40px;
+        margin-top: 550px;
+}
+.threebox1button{
+        color: rgb(253, 252, 252);
+        position: absolute;
+        margin-left: 40px;
+        margin-top: 600px;
+        width: 150px;
+        height:40px;
+        font-family: 'Roboto', sans-serif;
+        background-color: transparent;
+        cursor: pointer;
+        border-style: solid;
+        text-align: center;
+        transition: 0.5s ease-out;
+        padding-top: 15px;
+}
+.threebox1button:hover{
+        background-color: white;
+        color: black;
+}
+.parent4{
+    background-image: url("https://sxcontent9668.azureedge.us/cms-assets/assets/STARSHIP_Testflight_DESKTOP_2b3bea613a.jpg");
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 850px;
+    padding: 15px;
+}
+.fourbox1heading1{
+    color: rgb(255, 255, 255);
+    position: absolute;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bolder;
+    padding: 5px;
+    margin-left: 40px;
+    margin-top: 550px;
+}
+.fourbox1button{
+    color: rgb(253, 252, 252);
+    position: absolute;
+    margin-left: 40px;
+    margin-top: 600px;
+    width: 150px;
+    height:40px;
+    font-family: 'Roboto', sans-serif;
+    background-color: transparent;
+    cursor: pointer;
+    border-style: solid;
+    text-align: center;
+    transition: 0.5s ease-out;
+    padding-top: 15px;
+}
+.fourbox1button:hover{
+    background-color: white;
+    color: black;
+}
+.parent5{
+    width: 100%;
+    height: 80px;
+    background-color: black;
+    
+    
+}
+
+.fivebox1{
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+    padding-top: 38px;
+
+}
